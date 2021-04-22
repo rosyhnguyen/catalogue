@@ -438,7 +438,7 @@
                 }
                 i {
                    font-size: 36px;
-                    color: #ff5151;
+                    color: #c83213;
                     margin-right: 10px;
                 }
                 &:hover {
@@ -1282,7 +1282,7 @@
             font-size: 18px;
             font-weight: 300;
             color: #010225;
-            border: 1px solid #ff5151;
+            border: 1px solid #c83213;
             padding: 18px 40px 17px;
             @media #{$xs-layout} {
                 padding: 15px 25px 14px;
@@ -1304,7 +1304,7 @@
         top: 8px;
         height: 103px;
         width: 1px;
-        background-color: #ff5151;
+        background-color:#c83213;
         @media #{$xs-layout} {
             left: 50px;
         }
