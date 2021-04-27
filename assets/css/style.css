@@ -1792,7 +1792,7 @@ button, input, optgroup, select, textarea {
 
 .btn-hover a:hover {
   border: 1px solid #c83213;
-  color: #fff;
+  color: #c83213;
   border-radius: 12px;
 }
 
@@ -1814,7 +1814,7 @@ button, input, optgroup, select, textarea {
   width: 0;
   left: auto;
   right: 0;
-  background: #c83213;
+  background: #ffffff;
   border-radius: 12px;
 }
 
@@ -2840,7 +2840,7 @@ button, input, optgroup, select, textarea {
 }
 
 .header-right-wrap .cart-wrap button span {
-  font-size: 18px;
+  font-size: 20px;
   display: block;
   line-height: 1;
   margin-left: 7px;
@@ -2866,7 +2866,7 @@ button, input, optgroup, select, textarea {
 
 .header-right-wrap .cart-wrap button.cart-3 i {
   color: #010211;
-  font-size: 22px;
+  font-size: 30px;
 }
 
 .header-right-wrap .cart-wrap-2 button {
@@ -3052,11 +3052,11 @@ button, input, optgroup, select, textarea {
 }
 
 .header-right-wrap .header-login {
-  margin-top: -2px;
+  /*margin-top: -2px;*/
 }
 
 .header-right-wrap .header-login a {
-  font-size: 22px;
+  font-size: 30px;
   color: #010211;
 }
 
@@ -3069,7 +3069,7 @@ button, input, optgroup, select, textarea {
 }
 
 .header-right-wrap .header-wishlist a {
-  font-size: 22px;
+  font-size: 30px;
   color: #010211;
 }
 
@@ -3292,7 +3292,7 @@ button, input, optgroup, select, textarea {
   font-size: 16px;
   display: block;
   text-transform: capitalize;
-  background-color: #ff7474;
+  background-color: #C83213;
   color: #ffffff;
   border: 1px solid transparent;
 }
@@ -6623,7 +6623,7 @@ button, input, optgroup, select, textarea {
 }
 
 .slider-content-10 h1 {
-  font-size: 50px;
+  font-size: 26px;
   color: #010225;
   font-weight: 500;
   line-height: 40px;
@@ -6633,13 +6633,13 @@ button, input, optgroup, select, textarea {
 
 @media only screen and (min-width: 1200px) and (max-width: 1365px) {
   .slider-content-10 h1 {
-    font-size: 45px;
+    font-size: 26px;
   }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .slider-content-10 h1 {
-    font-size: 40px;
+    font-size: 26px;
     margin: 13px 0 28px;
     line-height: 35px;
   }
@@ -6666,8 +6666,9 @@ button, input, optgroup, select, textarea {
   display: inline-block;
   font-size: 18px;
   font-weight: 300;
-  color: #010225;
+  color: #ffffff;
   border: 1px solid #c83213;
+  background-color:#c83213;
   padding: 18px 40px 17px;
   border-radius: 12px;
 }
@@ -6681,7 +6682,7 @@ button, input, optgroup, select, textarea {
 }
 
 .slider-content-10 .slider-btn-10 a:hover {
-  color: #ffffff;
+  color: #000000;
   border-radius: 12px;
 }
 
@@ -12947,7 +12948,7 @@ button, input, optgroup, select, textarea {
 .deal-content-4 h2 {
   font-size: 50px;
   font-weight: 500;
-  color: white;
+  color: black;
   margin: -25px 0 0px;
 }
 
@@ -12978,7 +12979,7 @@ button, input, optgroup, select, textarea {
 
 .deal-content-4 p {
   font-size: 16px;
-  color: white;
+  color: black;
   margin: 16px 0 23px;
   line-height: 26px;
   width: 67%;
@@ -13008,7 +13009,8 @@ button, input, optgroup, select, textarea {
 .deal-content-4 .deal-btn4 a {
   display: inline-block;
   line-height: 1;
-  color: #c83213;
+  color: #ffffff;
+  background-color: #c83213;
   font-size: 16px;
   border: 1px solid #c83213;
   border-radius: 12px;
@@ -13024,7 +13026,7 @@ button, input, optgroup, select, textarea {
 }
 
 .deal-content-4 .deal-btn4 a:hover {
-  color: #fff;
+  color: #000000;
   border-radius: 12px;
 }
 
