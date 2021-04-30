@@ -52,6 +52,9 @@
 .pro-details-buy-now {
   margin: 35px 0px;
 }
+.logo {
+  width: 40%;
+}
 html,
 body {
   height: 100%;
